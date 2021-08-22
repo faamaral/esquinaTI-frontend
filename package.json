@@ -10,7 +10,11 @@
   "dependencies": {
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
+<<<<<<< HEAD
+    "node-sass": "^6.0.1",
+=======
     "vue": "^3.2.4",
+>>>>>>> 9407a2038b6f56322a540d60ea948f146d0702b4
     "vue-router": "^4.0.11"
   },
   "devDependencies": {
