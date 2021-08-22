@@ -8,7 +8,7 @@
                         <li class="nav-item"><a href="/" class="nav-link" >Home</a></li>
                         <li class="nav-item"><a class="nav-link active" href="#!">Sobre Nós</a></li>
                         <li class="nav-item"><a class="nav-link active" href="#!">Contact</a></li>
-                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Fork me</a></li>
+                        <li class="nav-item"><router-link class="btn btn-primary" to="/Login">Login</router-link></li>
                     </ul>
                 </div>
             </div>
