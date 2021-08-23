@@ -45,7 +45,7 @@ Foi utilizado o PostgreeSQL
 - Usuário poder fazer uma postagem
 - Realizar os comentários
 
-###OBSERVAÇÃO
+### OBSERVAÇÃO 
 O nosso colega Pablo não conseguiu realizar os commit's pois
 estava dando erro de conflito no node e do pull (atualizar repositório), 
 estava dando conflito dos arquivos que os demais participantes (Antônio e Fabiano)
