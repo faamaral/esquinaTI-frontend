@@ -6,6 +6,8 @@ import Home from '../pages/Home'
 import Article from '../pages/Article'
 import Login from '../pages/Login.vue'
 import CriarConta from '../pages/CriarConta.vue'
+import SobreNos from '../pages/SobreNos.vue'
+import Contato from '../pages/Contato.vue'
 
 const routes = [
     {
@@ -27,6 +29,16 @@ const routes = [
         path: '/CriarConta',
         name: 'CriarConta',
         component: CriarConta
+    },
+    {
+        path: '/SobreNos',
+        name: 'SobreNos',
+        component: SobreNos
+    },
+    {
+        path: '/Contato',
+        name: 'Contato',
+        component: Contato
     }
 ]
 
